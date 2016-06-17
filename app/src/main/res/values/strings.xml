@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Email Edit View</string>
+    <string name="about_app">This is sample application to create an Edit Text view for email to block the copy paste feature</string>
+    <string name="edit_hint">Enter Email</string>
+</resources>
